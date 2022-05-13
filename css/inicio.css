@@ -1,0 +1,59 @@
+.img-container1 {
+  width: 70%;
+  height: 100%;
+  background-color: lightgray;
+  float: right;
+  background: url(../imagenes/familia.png) no-repeat center center / cover;
+  -webkit-shape-outside: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  shape-outside: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  -webkit-clip-path: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  clip-path: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+}
+
+.img-container2 {
+  width: 70%;
+  height: 100%;
+  background-color: lightgray;
+  float: right;
+  background: url(../imagenes/piel.png) no-repeat center center / cover;
+  -webkit-shape-outside: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  shape-outside: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  -webkit-clip-path: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  clip-path: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+}
+
+.img-container3 {
+  width: 70%;
+  height: 100%;
+  background-color: lightgray;
+  float: right;
+  background: url(../imagenes/tecnologia.png) no-repeat center center / cover;
+  -webkit-shape-outside: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  shape-outside: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  -webkit-clip-path: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  clip-path: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+}
+
+.img-container4 {
+  width: 70%;
+  height: 100%;
+  background-color: lightgray;
+  float: right;
+  background: url(../imagenes/lasana-comida.jpg) no-repeat center center / cover;
+  -webkit-shape-outside: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  shape-outside: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  -webkit-clip-path: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  clip-path: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+}
+
+.img-container5 {
+  width: 70%;
+  height: 100%;
+  background-color: lightgray;
+  float: right;
+  background: url(../imagenes/coronavirus-higiene-hogar-640\ -\ Copy.jpg) no-repeat center center / cover;
+  -webkit-shape-outside: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  shape-outside: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  -webkit-clip-path: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+  clip-path: polygon(0% 0, 100% 0, 100% 100%, 50% 100%);
+}
